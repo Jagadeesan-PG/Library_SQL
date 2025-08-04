@@ -1,10 +1,10 @@
 # Library Management Database - MySQL
 
-## 📌 Overview
+## Overview
 This project is part of the SQL Developer Internship Task 1.
 It demonstrates how to design a database schema, create tables, and define relationships using MySQL.
 
-## 🗂 Database Schema
+## Database Schema
 **Entities:**
 - Author
 - Book
@@ -16,7 +16,7 @@ It demonstrates how to design a database schema, create tables, and define relat
 - Book → Loan (1:M)
 - Member → Loan (1:M)
 
-## 🛠 How to Run
+##  How to Run
 1. Open **MySQL Workbench**.
 2. Create a new SQL script.
 3. Copy and paste the content from `schema.sql`.
@@ -24,7 +24,5 @@ It demonstrates how to design a database schema, create tables, and define relat
 5. Refresh the schema list to view the `LibraryDB` database.
 
 ## 📊 ER Diagram
-![ER Diagram](ER_Diagram.png)
+Attached in this repository
 
-## ✍️ Author
-Created by Jagadeesan for SQL Developer Internship Task 1.
